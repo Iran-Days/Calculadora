@@ -12,3 +12,4 @@ if numero_1 < numero_2:
     print(f"Impossivel{resultado_divisão}")
 print("A Soma Foi:", resultado_soma, "A Multiplicação Foi:", resultado_multiplicação,
        "A Subtração Foi:", resultado_subtração, "A Divisão Foi:", resultado_divisão)
+print("testando")
